@@ -1,4 +1,4 @@
-# Formel 1 Analysis Tool
+# Formula 1 Analysis Tool
 
 ![Formula 1 Analysis Tool Screenshot](screenshots/dashboard.png)
 
