@@ -36,6 +36,9 @@ To run this project locally, follow these steps:
 4. **Run the Application**:
     In RStudio, open the `app.R` file and click the "Run App" button.
 
+## Datasets
+Datasets from [Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
+
 ## Usage
 
 ### User Interface
