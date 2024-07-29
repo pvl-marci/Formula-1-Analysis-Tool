@@ -1,0 +1,212 @@
+constructorId;constructorRef;constructor_name
+1;mclaren;McLaren
+2;bmw_sauber;BMW Sauber
+3;williams;Williams
+4;renault;Renault
+5;toro_rosso;Toro Rosso
+6;ferrari;Ferrari
+7;toyota;Toyota
+8;super_aguri;Super Aguri
+9;red_bull;Red Bull
+10;force_india;Force India
+11;honda;Honda
+12;spyker;Spyker
+13;mf1;MF1
+14;spyker_mf1;Spyker MF1
+15;sauber;Sauber
+16;bar;BAR
+17;jordan;Jordan
+18;minardi;Minardi
+19;jaguar;Jaguar
+20;prost;Prost
+21;arrows;Arrows
+22;benetton;Benetton
+23;brawn;Brawn
+24;stewart;Stewart
+25;tyrrell;Tyrrell
+26;lola;Lola
+27;ligier;Ligier
+28;forti;Forti
+29;footwork;Footwork
+30;pacific;Pacific
+31;simtek;Simtek
+32;team_lotus;Team Lotus
+33;larrousse;Larrousse
+34;brabham;Brabham
+35;dallara;Dallara
+36;fondmetal;Fondmetal
+37;march;March
+38;moda;Andrea Moda
+39;ags;AGS
+40;lambo;Lambo
+41;leyton;Leyton House
+42;coloni;Coloni
+44;eurobrun;Euro Brun
+45;osella;Osella
+46;onyx;Onyx
+47;life;Life
+48;rial;Rial
+49;zakspeed;Zakspeed
+50;ram;RAM
+51;alfa;Alfa Romeo
+52;spirit;Spirit
+53;toleman;Toleman
+54;ats;ATS
+55;theodore;Theodore
+56;fittipaldi;Fittipaldi
+57;ensign;Ensign
+58;shadow;Shadow
+59;wolf;Wolf
+60;merzario;Merzario
+61;kauhsen;Kauhsen
+62;rebaque;Rebaque
+63;surtees;Surtees
+64;hesketh;Hesketh
+65;martini;Martini
+66;brm;BRM
+67;penske;Penske
+68;lec;LEC
+69;mcguire;McGuire
+70;boro;Boro
+71;apollon;Apollon
+72;kojima;Kojima
+73;parnelli;Parnelli
+74;maki;Maki
+75;hill;Embassy Hill
+76;lyncar;Lyncar
+77;trojan;Trojan
+78;amon;Amon
+79;token;Token
+80;iso_marlboro;Iso Marlboro
+81;tecno;Tecno
+82;matra;Matra
+83;politoys;Politoys
+84;connew;Connew
+85;bellasi;Bellasi
+86;tomaso;De Tomaso
+87;cooper;Cooper
+88;eagle;Eagle
+89;lds;LDS
+90;protos;Protos
+91;shannon;Shannon
+92;scirocco;Scirocco
+93;re;RE
+94;brp;BRP
+95;porsche;Porsche
+96;derrington;Derrington
+97;gilby;Gilby
+98;stebro;Stebro
+99;emeryson;Emeryson
+100;enb;ENB
+101;jbw;JBW
+102;ferguson;Ferguson
+103;mbm;MBM
+104;behra-porsche;Behra-Porsche
+105;maserati;Maserati
+106;scarab;Scarab
+107;watson;Watson
+108;epperly;Epperly
+109;phillips;Phillips
+110;lesovsky;Lesovsky
+111;trevis;Trevis
+112;meskowski;Meskowski
+113;kurtis_kraft;Kurtis Kraft
+114;kuzma;Kuzma
+115;vhristensen;Christensen
+116;ewing;Ewing
+117;aston_martin;Aston Martin
+118;vanwall;Vanwall
+119;moore;Moore
+120;dunn;Dunn
+121;elder;Elder
+122;sutton;Sutton
+123;fry;Fry
+124;tec-mec;Tec-Mec
+125;connaught;Connaught
+126;alta;Alta
+127;osca;OSCA
+128;gordini;Gordini
+129;stevens;Stevens
+130;bugatti;Bugatti
+131;mercedes;Mercedes
+132;lancia;Lancia
+133;hwm;HWM
+134;schroeder;Schroeder
+135;pawl;Pawl
+136;pankratz;Pankratz
+137;arzani-volpini;Arzani-Volpini
+138;nichels;Nichels
+139;bromme;Bromme
+140;klenk;Klenk
+141;simca;Simca
+142;turner;Turner
+143;del_roy;Del Roy
+144;veritas;Veritas
+145;bmw;BMW
+146;emw;EMW
+147;afm;AFM
+148;frazer_nash;Frazer Nash
+149;sherman;Sherman
+150;deidt;Deidt
+151;era;ERA
+152;butterworth;Aston Butterworth
+153;cisitalia;Cisitalia
+154;lago;Talbot-Lago
+155;hall;Hall
+156;marchese;Marchese
+157;langley;Langley
+158;rae;Rae
+159;olson;Olson
+160;wetteroth;Wetteroth
+161;adams;Adams
+162;snowberger;Snowberger
+163;milano;Milano
+164;hrt;HRT
+167;cooper-maserati;Cooper-Maserati
+166;virgin;Virgin
+168;cooper-osca;Cooper-OSCA
+169;cooper-borgward;Cooper-Borgward
+170;cooper-climax;Cooper-Climax
+171;cooper-castellotti;Cooper-Castellotti
+172;lotus-climax;Lotus-Climax
+173;lotus-maserati;Lotus-Maserati
+174;de_tomaso-osca;De Tomaso-Osca
+175;de_tomaso-alfa_romeo;De Tomaso-Alfa Romeo
+176;lotus-brm;Lotus-BRM
+177;lotus-borgward;Lotus-Borgward
+178;cooper-alfa_romeo;Cooper-Alfa Romeo
+179;de_tomaso-ferrari;De Tomaso-Ferrari
+180;lotus-ford;Lotus-Ford
+181;brabham-brm;Brabham-BRM
+182;brabham-ford;Brabham-Ford
+183;brabham-climax;Brabham-Climax
+184;lds-climax;LDS-Climax
+185;lds-alfa_romeo;LDS-Alfa Romeo
+186;cooper-ford;Cooper-Ford
+187;mclaren-ford;McLaren-Ford
+188;mclaren-seren;McLaren-Serenissima
+189;eagle-climax;Eagle-Climax
+190;eagle-weslake;Eagle-Weslake
+191;brabham-repco;Brabham-Repco
+192;cooper-ferrari;Cooper-Ferrari
+193;cooper-ats;Cooper-ATS
+194;mclaren-brm;McLaren-BRM
+195;cooper-brm;Cooper-BRM
+196;matra-ford;Matra-Ford
+197;brm-ford;BRM-Ford
+198;mclaren-alfa_romeo;McLaren-Alfa Romeo
+199;march-alfa_romeo;March-Alfa Romeo
+200;march-ford;March-Ford
+201;lotus-pw;"Lotus-Pratt &amp; Whitney"
+202;shadow-ford;Shadow-Ford
+203;shadow-matra;Shadow-Matra
+204;brabham-alfa_romeo;Brabham-Alfa Romeo
+205;lotus_racing;Lotus
+206;marussia;Marussia
+207;caterham;Caterham
+208;lotus_f1;Lotus F1
+209;manor;Manor Marussia
+210;haas;Haas F1 Team
+211;racing_point;Racing Point
+213;alphatauri;AlphaTauri
+214;alpine;Alpine F1 Team
